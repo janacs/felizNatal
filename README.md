@@ -1,5 +1,8 @@
-# Vue 3 + Vite
+# Projeto de Natal 🎄✨
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este é o meu primeiro projeto utilizando Vue.js e design inspirado no Figma! 🌟 Ele celebra o Natal com uma interface simples, criativa e acolhedora. O objetivo é aprender e praticar front-end com tecnologias modernas.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Funcionalidades
+- 🎅 Contagem regressiva para o Natal.
+- 🎁 Elementos estilizados com animações.
+- 🎨 Design responsivo inspirado no layout do Figma.
